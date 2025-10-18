@@ -54,7 +54,8 @@ Oracle Cloud Infrastructure [OCI]: [Trying to Create a Multi-Cloud Serverless Fu
         return response
 
     ```
-* GCP Funtionality 
+
+* GCP Funtionality: 
     URl: https://serum-potassium-504-430415593214.europe-west1.run.app/serum_potassium=3.0
          https://serum-potassium-504-430415593214.europe-west1.run.app/serum_potassium=6.8 
 
@@ -62,7 +63,7 @@ Oracle Cloud Infrastructure [OCI]: [Trying to Create a Multi-Cloud Serverless Fu
 
     ![GCP Funtionality](images/gcp_serverless_functionality.png)
 
-* GCP log 
+* GCP Log:
 ![GCP Log](images/gcp_serverless_log.png)
 
 ### Oracle Cloud Infrastrcuture (OCL)
@@ -122,8 +123,11 @@ Oracle Cloud Infrastructure [OCI]: [Trying to Create a Multi-Cloud Serverless Fu
 
     ```
 
-* OCI Deploy 
-![OCI Deployment](images/oci_serverless_deploy.png)
+* OCI Deploy: 
+
+    URl: https://pfs3co7qp2vujiofzx45rx4bwi.apigateway.us-ashburn-1.oci.customer-oci.com/serum
+
+![OCI Funtion Creation](images/oci_serverless_deploy.png)
 
 ---
 
